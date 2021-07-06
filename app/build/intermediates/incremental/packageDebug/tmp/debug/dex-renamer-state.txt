@@ -1,0 +1,7 @@
+#Sun Jul 04 01:05:31 ICT 2021
+base.0=C\:\\Users\\R-30 C\\Downloads\\CRUD-Realm-master\\CRUD-Realm-master\\CRUDRealm\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes.dex
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=C\:\\Users\\R-30 C\\Downloads\\CRUD-Realm-master\\CRUD-Realm-master\\CRUDRealm\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out\\classes.dex

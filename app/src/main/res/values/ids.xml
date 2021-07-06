@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="td_kelas" type="id" />
+    <item name="td_nama" type="id" />
+</resources>
